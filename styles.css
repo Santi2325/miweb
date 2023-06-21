@@ -1,0 +1,14 @@
+.header{
+     background-color: rgba(87, 143, 226, 0.719);
+      display: flex;
+       justify-content: flex-end;
+}
+h1{color:rgb(255, 166, 0)}
+    .item:hover img{
+    opacity: 0.33;
+} 
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
